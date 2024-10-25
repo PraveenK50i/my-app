@@ -41,7 +41,7 @@ export default function Home() {
       {/* Main Content */}
       <main className="container mx-auto px-4 py-8">
         <AccordionItem
-          title="About Panta Sasikanth"
+          title="&#34;Panta Sasikanth&#34;"
           content={
             <div>
               <Image

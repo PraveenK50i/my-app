@@ -1,13 +1,11 @@
 'use client'
 
-import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
-import { CardTitle, CardDescription, CardHeader, CardContent, Card } from "@/components/ui/card"
+
 import Link from "next/link"
-import { Menu, Volume2, VolumeX, Check } from "lucide-react"
+import { Volume2, VolumeX,  } from "lucide-react"
 import { useState, useRef } from "react"
-import Image from 'next/image'
-import { ChevronDown, ChevronUp } from 'lucide-react'
+
+
 
 
 export default function Component() {
